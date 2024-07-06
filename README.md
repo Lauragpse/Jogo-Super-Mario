@@ -3,7 +3,7 @@
 <p>algumas alterações foram: alteração do background, edição dos arquivos de imagens do jogo como as nuvens e cano, adicionei uma parte de contador javascript
   no codigo para que seja uma pontuação do jogador, personalização das cores, fontes e elementos do mini game.</p>
 <h2>O mini game pode ser acessado por meio do link: </h2>
-  <p> https://lauragpse.github.io/Jogo-Super-Mario/ </p>
+  <p> <a href='https://lauragpse.github.io/Jogo-Super-Mario/' target='_blank'>Clique aqui para acessar!</a></p>
 <br>
 <img src='https://github.com/Lauragpse/Jogo-Super-Mario/blob/main/imagens/super%20mario.jpeg?raw=true' width='250px' >
 <br>
